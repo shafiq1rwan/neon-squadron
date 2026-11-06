@@ -6,6 +6,10 @@ A 2.5D neon roguelike squadron shooter for the browser, built with the PlayCanva
 **Status:** Phases 1–2 of 10 are done (foundation and core combat). Next is Phase 3, the
 squadron/wingmen. See [docs/ROADMAP.md](docs/ROADMAP.md).
 
+**Play:** https://shafiq1rwan.github.io/neon-squadron/. Every push to `main` is tested, built and
+deployed by [.github/workflows/deploy.yml](.github/workflows/deploy.yml). One-time repo setting:
+*Settings → Pages → Source: GitHub Actions*.
+
 ## Setup on a new machine
 
 Requirements: **Node 22.12+** (developed on Node 26), npm, and Chrome or Edge for the browser tools.

@@ -30,6 +30,11 @@ npm run build      # typecheck + vite build -> dist/ (relative paths)
 npm run preview    # serve dist/
 ```
 
+CI: `.github/workflows/deploy.yml` runs `npm ci`, `npm test` and `npm run build` on Node 24 for every
+push to `main`, then deploys `dist/` to GitHub Pages (https://shafiq1rwan.github.io/neon-squadron/).
+A failing test blocks the deploy, so never push red. Keep `base: './'` in `vite.config.ts`, because
+Pages serves from the `/neon-squadron/` sub-path.
+
 Run `npm run typecheck`, `npm test` and `npm run build` after every major change. Fix all errors
 before moving on. Browser verification tools live in [tools/browser/](tools/browser/README.md).
 
