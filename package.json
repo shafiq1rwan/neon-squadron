@@ -1,0 +1,26 @@
+﻿{
+  "name": "neon-squadron",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "art": "node scripts/build-art.mjs",
+    "fx": "node scripts/export-fx.mjs",
+    "assets": "npm run art && npm run fx",
+    "audit": "node scripts/audit.mjs"
+  },
+  "dependencies": {
+    "phaser": "^3.90.0",
+    "pixelfx": "github:patch-gg/pixelfx"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.65.0",
+    "pxl-pixelart": "github:crsolver/claude-pxl",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.6"
+  }
+}

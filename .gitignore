@@ -1,0 +1,15 @@
+# dependencies and build output
+node_modules/
+dist/
+
+# pxl build output (previews, per-sprite PNGs). The atlases the game uses are copied to public/assets/ and committed.
+art/out*/
+
+# archives (e.g. zipped Poki builds or thumbnail packs)
+*.zip
+
+# the pxl skill is a git clone of github.com/crsolver/claude-pxl; install it with the command in README.md
+.claude/skills/pxl-pixel-art/
+
+# local Claude Code settings
+.claude/settings.local.json

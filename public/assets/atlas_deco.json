@@ -1,0 +1,314 @@
+{
+ "frames": {
+  "deco_1_spire": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 15,
+    "h": 18
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 15,
+    "h": 18
+   },
+   "sourceSize": {
+    "w": 15,
+    "h": 18
+   }
+  },
+  "deco_1_vent": {
+   "frame": {
+    "x": 17,
+    "y": 0,
+    "w": 17,
+    "h": 13
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 17,
+    "h": 13
+   },
+   "sourceSize": {
+    "w": 17,
+    "h": 13
+   }
+  },
+  "deco_1_wreck": {
+   "frame": {
+    "x": 36,
+    "y": 0,
+    "w": 19,
+    "h": 15
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 19,
+    "h": 15
+   },
+   "sourceSize": {
+    "w": 19,
+    "h": 15
+   }
+  },
+  "deco_1_pipe": {
+   "frame": {
+    "x": 57,
+    "y": 0,
+    "w": 25,
+    "h": 11
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 25,
+    "h": 11
+   },
+   "sourceSize": {
+    "w": 25,
+    "h": 11
+   }
+  },
+  "deco_1_rocks": {
+   "frame": {
+    "x": 0,
+    "y": 20,
+    "w": 20,
+    "h": 14
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 20,
+    "h": 14
+   },
+   "sourceSize": {
+    "w": 20,
+    "h": 14
+   }
+  },
+  "deco_2_spikes": {
+   "frame": {
+    "x": 22,
+    "y": 20,
+    "w": 16,
+    "h": 17
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 17
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 17
+   }
+  },
+  "deco_2_pod": {
+   "frame": {
+    "x": 40,
+    "y": 20,
+    "w": 17,
+    "h": 15
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 17,
+    "h": 15
+   },
+   "sourceSize": {
+    "w": 17,
+    "h": 15
+   }
+  },
+  "deco_2_drift": {
+   "frame": {
+    "x": 59,
+    "y": 20,
+    "w": 25,
+    "h": 13
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 25,
+    "h": 13
+   },
+   "sourceSize": {
+    "w": 25,
+    "h": 13
+   }
+  },
+  "deco_2_tower": {
+   "frame": {
+    "x": 0,
+    "y": 39,
+    "w": 13,
+    "h": 21
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 13,
+    "h": 21
+   },
+   "sourceSize": {
+    "w": 13,
+    "h": 21
+   }
+  },
+  "deco_2_crystal": {
+   "frame": {
+    "x": 15,
+    "y": 39,
+    "w": 10,
+    "h": 12
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 10,
+    "h": 12
+   },
+   "sourceSize": {
+    "w": 10,
+    "h": 12
+   }
+  },
+  "deco_3_shroom": {
+   "frame": {
+    "x": 27,
+    "y": 39,
+    "w": 16,
+    "h": 14
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 14
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 14
+   }
+  },
+  "deco_3_tendril": {
+   "frame": {
+    "x": 45,
+    "y": 39,
+    "w": 15,
+    "h": 19
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 15,
+    "h": 19
+   },
+   "sourceSize": {
+    "w": 15,
+    "h": 19
+   }
+  },
+  "deco_3_eggs": {
+   "frame": {
+    "x": 0,
+    "y": 62,
+    "w": 17,
+    "h": 13
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 17,
+    "h": 13
+   },
+   "sourceSize": {
+    "w": 17,
+    "h": 13
+   }
+  },
+  "deco_3_bones": {
+   "frame": {
+    "x": 19,
+    "y": 62,
+    "w": 21,
+    "h": 11
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 21,
+    "h": 11
+   },
+   "sourceSize": {
+    "w": 21,
+    "h": 11
+   }
+  },
+  "deco_3_pod": {
+   "frame": {
+    "x": 42,
+    "y": 62,
+    "w": 13,
+    "h": 13
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 13,
+    "h": 13
+   },
+   "sourceSize": {
+    "w": 13,
+    "h": 13
+   }
+  }
+ },
+ "meta": {
+  "app": "pxl",
+  "image": "atlas_deco.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 84,
+   "h": 75
+  },
+  "scale": "1"
+ }
+}

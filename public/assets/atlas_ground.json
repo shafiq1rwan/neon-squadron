@@ -1,0 +1,254 @@
+{
+ "frames": {
+  "turret_1_base": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 19,
+    "h": 19
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 19,
+    "h": 19
+   },
+   "sourceSize": {
+    "w": 19,
+    "h": 19
+   }
+  },
+  "turret_1_gun": {
+   "frame": {
+    "x": 21,
+    "y": 0,
+    "w": 11,
+    "h": 23
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 11,
+    "h": 23
+   },
+   "sourceSize": {
+    "w": 11,
+    "h": 23
+   }
+  },
+  "turret_2_base": {
+   "frame": {
+    "x": 34,
+    "y": 0,
+    "w": 19,
+    "h": 19
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 19,
+    "h": 19
+   },
+   "sourceSize": {
+    "w": 19,
+    "h": 19
+   }
+  },
+  "turret_2_gun": {
+   "frame": {
+    "x": 55,
+    "y": 0,
+    "w": 11,
+    "h": 23
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 11,
+    "h": 23
+   },
+   "sourceSize": {
+    "w": 11,
+    "h": 23
+   }
+  },
+  "turret_3_base": {
+   "frame": {
+    "x": 0,
+    "y": 25,
+    "w": 19,
+    "h": 19
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 19,
+    "h": 19
+   },
+   "sourceSize": {
+    "w": 19,
+    "h": 19
+   }
+  },
+  "turret_3_gun": {
+   "frame": {
+    "x": 21,
+    "y": 25,
+    "w": 11,
+    "h": 23
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 11,
+    "h": 23
+   },
+   "sourceSize": {
+    "w": 11,
+    "h": 23
+   }
+  },
+  "crate": {
+   "frame": {
+    "x": 34,
+    "y": 25,
+    "w": 15,
+    "h": 15
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 15,
+    "h": 15
+   },
+   "sourceSize": {
+    "w": 15,
+    "h": 15
+   }
+  },
+  "fuel_tank": {
+   "frame": {
+    "x": 51,
+    "y": 25,
+    "w": 17,
+    "h": 21
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 17,
+    "h": 21
+   },
+   "sourceSize": {
+    "w": 17,
+    "h": 21
+   }
+  },
+  "bunker": {
+   "frame": {
+    "x": 0,
+    "y": 50,
+    "w": 33,
+    "h": 25
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 33,
+    "h": 25
+   },
+   "sourceSize": {
+    "w": 33,
+    "h": 25
+   }
+  },
+  "scorch": {
+   "frame": {
+    "x": 35,
+    "y": 50,
+    "w": 21,
+    "h": 15
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 21,
+    "h": 15
+   },
+   "sourceSize": {
+    "w": 21,
+    "h": 15
+   }
+  },
+  "mine": {
+   "frame": {
+    "x": 58,
+    "y": 50,
+    "w": 15,
+    "h": 15
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 15,
+    "h": 15
+   },
+   "sourceSize": {
+    "w": 15,
+    "h": 15
+   }
+  },
+  "mine_lit": {
+   "frame": {
+    "x": 75,
+    "y": 50,
+    "w": 15,
+    "h": 15
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 15,
+    "h": 15
+   },
+   "sourceSize": {
+    "w": 15,
+    "h": 15
+   }
+  }
+ },
+ "meta": {
+  "app": "pxl",
+  "image": "atlas_ground.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 90,
+   "h": 75
+  },
+  "scale": "1"
+ }
+}

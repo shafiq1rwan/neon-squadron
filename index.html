@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
+    <title>Neon Squadron</title>
+    <link rel="icon" href="data:," />
+    <style>
+      html, body { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; background: #06040f; }
+      body { touch-action: none; user-select: none; -webkit-user-select: none; -webkit-touch-callout: none; }
+      #game { position: fixed; inset: 0; }
+      canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: block; }
+    </style>
+    <!-- Poki SDK: the only external script Poki allows. The game runs without it (see src/poki.ts). -->
+    <script src="https://game-cdn.poki.com/scripts/v2/poki-sdk.js"></script>
+  </head>
+  <body>
+    <div id="game"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
